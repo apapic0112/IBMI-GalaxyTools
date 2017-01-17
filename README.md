@@ -1,5 +1,4 @@
 # IBMI-GalaxyTools
-Galaxy tool wrappers
 
 Galaxy Tool wrappers
 ====================
